@@ -1,7 +1,7 @@
 ### Howdy fellow coder 🤠
 
 👨‍🎓 Student in Computer Science I am a Full-Stack Dev wannabe  
-💾 Have some Java, Python and Scala knowledges as well as HTML and CSS  
+💾 Have some Javascript, Java, Python and Scala knowledges as well as HTML and CSS  
 🧠 Currently learning Typescript (with the Node.JS runtime environnement) and C  
 🔎 Planning to learn React/Angular  
 🐧 Comfortable both usign Windows, and Linux  
