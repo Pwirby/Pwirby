@@ -1,9 +1,14 @@
 ### Howdy fellow coder 🤠
 
-👨‍🎓 Student in Computer Science I am a Full-Stack Dev wannabe  
-💾 Have some Typescript, Javascript, Java, Python and Scala knowledges as well as HTML and CSS  
+👨‍🎓 Master's student in Cloud & Network Infrastructures, I am a Back-End Dev wannabe
+💾 Have some Java, Python, Typescript, Javascript and Scala knowledges as well as HTML and CSS  
 🧠 Currently learning Typescript (with the Node.JS runtime environnement) 
-🔎 Planning to learn React/Angular & Rust
+🔎 Planning to learn React/Angular & Spring Boot
 🐧 Comfortable both usign Windows, and Linux (WSL 🤍)
 🎸 Love creative coding as a hobie, generative art, video games and play a bit of electric guitar  
-🎶 Favorites genre are Electronic, Psychedelic Pop and Synthwave  
+🎶 Favorites genre are Electronic, Psychedelic Pop and Synthwave<br/><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwirby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clyde-jannel-b98a12167/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/pwirby/)
+[![StackOverflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=flat&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21034757/clyde)
