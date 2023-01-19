@@ -1,11 +1,11 @@
 ### Howdy fellow coder 🤠
 
-👨‍🎓 Master's student in Cloud & Network Infrastructures, I am a Back-End Dev wannabe
-💾 Have some Java, Python, Typescript, Javascript and Scala knowledges as well as HTML and CSS  
-🧠 Currently learning Typescript (with the Node.JS runtime environnement) 
-🔎 Planning to learn React/Angular & Spring Boot
-🐧 Comfortable both usign Windows, and Linux (WSL 🤍)
-🎸 Love creative coding as a hobie, generative art, video games and play a bit of electric guitar  
+👨‍🎓 Master's student in Cloud & Network Infrastructures, I am a Back-End Dev wannabe<br/>
+💾 Have some Java, Python, Typescript, Javascript and Scala knowledges as well as HTML and CSS<br/>
+🧠 Currently learning Typescript (with the Node.JS runtime environnement)<br/>
+🔎 Planning to learn React/Angular & Spring Boot<br/>
+🐧 Comfortable both usign Windows, and Linux (WSL 🤍)<br/>
+🎸 Love creative coding as a hobie, generative art, video games and play a bit of electric guitar<br/>
 🎶 Favorites genre are Electronic, Psychedelic Pop and Synthwave<br/><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwirby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
