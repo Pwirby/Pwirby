@@ -1,9 +1,8 @@
 ### Howdy fellow coder 🤠
 
 👨‍🎓 Master's student in Cloud & Network Infrastructures, I am a Back-End Dev wannabe<br/>
-💾 Have some Java, Python, Typescript, Javascript and Scala knowledges as well as HTML and CSS<br/>
+💾 Have some Java, Python, Typescript, Javascript, Bash and Scala knowledges as well as HTML and CSS<br/>
 🧠 Currently learning Typescript (with the Node.JS runtime environnement)<br/>
-🔎 Planning to learn React/Angular & Spring Boot<br/>
 🐧 Comfortable both usign Windows, and Linux (WSL 🤍)<br/>
 🎸 Love creative coding as a hobie, generative art, video games and play a bit of electric guitar<br/>
 🎶 Favorites genre are Electronic, Psychedelic Pop and Synthwave<br/><br/>
