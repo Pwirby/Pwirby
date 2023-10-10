@@ -1,12 +1,12 @@
 ### Howdy fellow coder 🤠
 
-👨‍🎓 Master's student in Cloud & Network Infrastructures, I am a Back-End Dev wannabe<br/>
-💾 Have some Java, Python, Typescript, Javascript, Bash and Scala knowledges as well as HTML and CSS<br/>
-🧠 Currently learning Typescript (with the Node.JS runtime environnement)<br/>
-🐧 Comfortable both usign Windows, and Linux (WSL 🤍)<br/>
-🎸 Love creative coding as a hobie, generative art, video games and play a bit of electric guitar<br/>
-🎶 Favorites genre are Electronic, Psychedelic Pop and Synthwave<br/><br/>
-
+👨‍🎓 Master's student in Cloud & Network Infrastructures, I am a DevOps wannabe  
+💾 Have some Java, Python, Typescript, Javascript, Bash and Scala knowledges as well as HTML and CSS  
+🧠 Currently learning Typescript (with the Node.JS runtime environnement)  
+🐧 Comfortable both usign Windows, and Linux (WSL 🤍)  
+🎸 Love creative coding as a hobie, generative art, video games and play a bit of electric guitar  
+🎶 Favorites genre are Electronic, Psychedelic Pop and Synthwave  
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwirby&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/clyde-jannel-b98a12167/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=LeetCode&logoColor=black)](https://leetcode.com/pwirby/)
